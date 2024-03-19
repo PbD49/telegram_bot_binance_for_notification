@@ -1,0 +1,3 @@
+token = ('')
+chat_id = ''
+
